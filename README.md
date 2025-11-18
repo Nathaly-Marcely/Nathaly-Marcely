@@ -1,70 +1,119 @@
-<h1 align="center">🎮✨ Bem-vinda ao meu universo! ✨🎮</h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/ckoq9GI.gif" width="300" alt="pixel witch">
-</p>
-
----
-
-# 👾 Olá! Eu sou **Nathaly Marcely Gomes Dias Leves**
-
-🌑 Desenvolvedora **Front-end** com foco em criar interfaces bonitas, intuitivas e com aquele toque dark gamer.  
-💾 Estudando e explorando **HTML, CSS, JavaScript** e **MySQL**.  
-🕹️ Apaixonada por games, pixel art, tecnologia e tudo que envolve mundos imaginários.
-
----
-
-## 🧩 Tecnologias que uso
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
-  <img src="https://skillicons.dev/icons?i=js" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-</div>
-
----
-
-## 🎮 Estatísticas do GitHub
+# 🎮 Nathaly Marcely Gomes Dias Leves
 
 <div align="center">
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Nathaly-Marcely&show_icons=true&theme=tokyonight&icon_color=purple&title_color=bb86fc)
-
-  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaly-Marcely&layout=compact&theme=tokyonight&title_color=bb86fc)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Front-end+Developer+%F0%9F%92%BB;Game+Enthusiast+%F0%9F%8E%AE;Building+Dark+Experiences+%E2%9C%A8)
 
 </div>
 
 ---
 
-## 🕹️ Troféus (porque cada nível merece glória)
+## 👾 Sobre Mim
+
+```javascript
+const nathaly = {
+    nome: "Nathaly Marcely",
+    username: "Nathaly-Marcely",
+    localização: "Brasil 🇧🇷",
+    código: ["HTML", "CSS", "JavaScript"],
+    database: ["MySQL"],
+    estilo: "Dark & Gaming Vibes 🌑🎮",
+    atualmente: "Desenvolvendo interfaces imersivas"
+};
+```
+
+---
+
+## 🛠️ Arsenal Tecnológico
 
 <div align="center">
 
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Nathaly-Marcely&theme=darkhub&margin-w=8&no-frame=true)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 👤 Sobre mim
+## 📊 GitHub Stats
 
-- 🌙 Amo estética **dark**, neon e temática gamer  
-- 🧪 Curiosa e criativa — sempre testando novas ideias  
-- 📚 Em constante evolução no mundo do front-end  
-- 🎨 Adoro pixel art e interfaces sombrias  
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathaly-Marcely&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaly-Marcely&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9)
 
----
-
-## ✉️ Onde me encontrar?
-
-**(Se quiser, coloco ícones ou links para redes sociais — é só me passar!)**
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/C9d1j6R.gif" width="250" alt="glitch cat">
-</p>
+## 🎯 Foco Atual
 
-<h3 align="center">🌑 Obrigada por visitar meu perfil! 🌑</h3>
+```css
+.desenvolvimento {
+    front-end: "Criando experiências visuais únicas";
+    design: "Interfaces dark e imersivas";
+    tema: "Gaming aesthetic";
+    objetivo: "Transformar código em arte interativa";
+}
+```
 
+---
+
+## 🌙 Projetos em Destaque
+
+> 🎮 Explorando o universo do desenvolvimento front-end com estética dark gaming
+> 
+> 💜 Cada linha de código é uma nova fase do jogo
+
+---
+
+## 📫 Conexões
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nathaly-Marcely)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote do Dia
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  
+  **⭐ Game On! Keep Coding ⭐**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Nathaly-Marcely&color=9D4EDD&style=flat-square&label=VISITORS)
+
+</div>
+
+---
+
+```javascript
+while(alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
