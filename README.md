@@ -37,7 +37,6 @@ const nathaly = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -61,7 +60,7 @@ const nathaly = {
 ```css
 .desenvolvimento {
     front-end: "Criando experiências visuais únicas";
-    design: "Interfaces dark e imersivas";
+    design: "Interfaces imersivas";
     tema: "Gaming aesthetic";
     objetivo: "Transformar código em arte interativa";
 }
@@ -71,7 +70,7 @@ const nathaly = {
 
 ## 🌙 Projetos em Destaque
 
-> 🎮 Explorando o universo do desenvolvimento front-end com estética dark gaming
+> 🎮 Explorando o universo do desenvolvimento front-end 
 > 
 > 💜 Cada linha de código é uma nova fase do jogo
 
@@ -91,12 +90,6 @@ const nathaly = {
 
 <div align="center">
   
-### 💭 Quote do Dia
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
 ---
 
 <div align="center">
@@ -109,11 +102,3 @@ const nathaly = {
 
 ---
 
-```javascript
-while(alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
