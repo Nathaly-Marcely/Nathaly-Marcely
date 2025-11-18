@@ -16,8 +16,7 @@ const nathaly = {
     username: "Nathaly-Marcely",
     localização: "Brasil 🇧🇷",
     código: ["HTML", "CSS", "JavaScript"],
-    database: ["MySQL"],
-    estilo: "Dark & Gaming Vibes 🌑🎮",
+    database: ["MySQL"],,
     atualmente: "Desenvolvendo interfaces imersivas"
 };
 ```
