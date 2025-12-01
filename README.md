@@ -1,4 +1,4 @@
-# 🎮 Nathaly Marcely Gomes Dias Leves
+# Nathaly Marcely Gomes Dias Leves
 
 <div align="center">
   
