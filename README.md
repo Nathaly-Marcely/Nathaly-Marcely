@@ -70,7 +70,7 @@ const nathaly = {
 
 > 🎮 Explorando o universo do desenvolvimento front-end 
 
-> https://nathaly-marcely.github.io/imersao-dev-10/
+>Game Portal🎮💜 https://nathaly-marcely.github.io/imersao-dev-10/
 
 > 💜 Cada linha de código é uma nova fase do jogo
 
