@@ -60,7 +60,6 @@ const nathaly = {
 .desenvolvimento {
     front-end: "Criando experiências visuais únicas";
     design: "Interfaces imersivas";
-    tema: "Gaming aesthetic";
     objetivo: "Transformar código em arte interativa";
 }
 ```
@@ -70,7 +69,9 @@ const nathaly = {
 ## 🌙 Projetos em Destaque
 
 > 🎮 Explorando o universo do desenvolvimento front-end 
-> 
+
+> https://nathaly-marcely.github.io/imersao-dev-10/
+
 > 💜 Cada linha de código é uma nova fase do jogo
 
 ---
